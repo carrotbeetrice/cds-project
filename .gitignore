@@ -1,4 +1,3 @@
-data/
 .DS_Store
 glove_model/
 .vector_cache/
