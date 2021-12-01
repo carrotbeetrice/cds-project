@@ -1,3 +1,4 @@
 .DS_Store
 glove_model/
 .vector_cache/
+data/glove.6B.100d.txt
